@@ -1,4 +1,4 @@
-# react-ws-chatapp
+# Golang-ReactJS Chat Application
 Building a Chat Application in Go with ReactJS
 
 
